@@ -1,0 +1,32 @@
+.gender {
+    display: flex;
+    padding: 10px;
+}
+
+button {
+    border-radius: 0;
+
+}
+
+.con {
+    padding: 100px;
+    background: linear-gradient(-150deg, skyblue, rgb(197, 115, 197));
+}
+
+.row {
+    background: white;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+input {
+    height: 50px;
+}
+
+.form-label,
+.label {
+    font-weight: bold;
+}
